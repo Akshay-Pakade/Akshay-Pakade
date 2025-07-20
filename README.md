@@ -2,7 +2,7 @@
 <h3 align="center">🚀 DevOps Engineer | Azure | Terraform | Kubernetes | CI/CD | Monitoring | IAC</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400"/>
+  <img src="https://media.licdn.com/dms/image/D4D03AQHuL4E7Rgj6fA/profile-displayphoto-shrink_800_800/0/1710251436612?e=1724284800&v=beta&t=CHTtI2g_OY9ZGHJJqBBtut7KYI52I_mqP3XQdyGBaDw" width="250" style="border-radius: 50%; border: 2px solid #ccc;"/>
 </p>
 
 ---
