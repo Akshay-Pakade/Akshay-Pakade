@@ -1,64 +1,60 @@
 <h1 align="center">Hi 👋, I'm Akshay Pakade</h1>
-<h3 align="center">🚀 DevOps Engineer | Azure | Terraform | CI/CD | GitHub Actions</h3>
+<h3 align="center">🚀 DevOps Engineer | Azure | Terraform | Kubernetes | CI/CD | Monitoring | IAC</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400"/>
 </p>
 
 ---
 
-- 🌐 I work on: **Azure**, **Terraform**, **GitHub Actions**, **Kubernetes**, **Docker**, **CI/CD Pipelines**
-- 🔒 Passionate about: **Cloud Security**, **DevSecOps**, and Infrastructure automation
-- 🔭 Exploring: **AKS**, monitoring tools like **Prometheus/Grafana**, and scalable architectures
-- 💬 Ask me about: **Pipeline debugging**, **infra provisioning**, or **scripting (PowerShell/Bash)**
-- 📫 Reach me: [akshaypakade.dev@gmail.com](mailto:akshaypakade.dev@gmail.com)
-- 🌍 Portfolio: [akshaypakade.github.io](https://akshaypakade.github.io) _(optional)_
-- 👀 Visitor count: ![visitors](https://komarev.com/ghpvc/?username=akshaypakade&label=Profile%20views&color=0e75b6&style=flat)
+### 🔧 Tech Stack I Use:
 
----
-
-### 🧰 Tools & Technologies
-
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2C5282?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Projects I'm Proud Of:
+
+- 🔄 **End-to-End Azure Infra Deployment with Terraform**  
+- 🌐 **AKS Cluster Setup & Helm-based CI/CD Pipeline**  
+- 🔍 **Monitoring Stack with Prometheus + Grafana on K8s**  
+
+---
+
+### 📢 About Me:
+- 🌐 Working as a **DevOps Engineer** with experience in cloud automation and production-grade deployments.
+- 🔧 Focused on building secure, scalable, and observable infrastructure.
+- ✍️ Always learning and experimenting with new DevOps tools and workflows.
+
+---
+
+### 👤 Connect with Me:
+
+<p>
+  <a href="mailto:pakadeakshay@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akshay-pakade-8a34b0349">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaypakade&show_icons=true&theme=dark" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaypakade&theme=dark" width="450"/>
+  <img src="https://komarev.com/ghpvc/?username=akshaypakade&label=Visitors&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshaypakade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:akshaypakade.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/akshaypakade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  🌟 Let's Automate Everything! 🚀
 </p>
-
-
-<!--
-**Akshay-Pakade/Akshay-Pakade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
